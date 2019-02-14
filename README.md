@@ -1,1 +1,1 @@
-# Other-s-Oj-problem-Solutoions-By-Saurav-Paul
+# Others-Oj-problem-Solutoions-By-Saurav-Paul
