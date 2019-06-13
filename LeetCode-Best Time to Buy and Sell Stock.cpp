@@ -5,8 +5,8 @@ public:
         int ans = 0;
         
         for(int i = 0 ; i < nax ; i++){
-           for(int j = i; j< nax ; j++){
-               if(prices[i] > prices[j])
+           for(int j = i+1; j< nax ; j++){
+               if(prices[i] >= prices[j])
                     break ;
                ans = max(ans, prices[j]-prices[i]);
            }
